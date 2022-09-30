@@ -11,6 +11,9 @@
 4. Select a variant→TypeScript
 5. プロジェクトルートで`yarn`→`yarn dev`で起動
 
+## Vuetify追加
+1. プロジェクトルートで`vue add vuetify`
+2. Choose a preset→Vuetify 3 - Vite (preview)
 
 
 
