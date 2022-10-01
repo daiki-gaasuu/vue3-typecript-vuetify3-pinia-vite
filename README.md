@@ -1,23 +1,22 @@
 # Vue 3 + TypeScript + Vite + Vuetify3 + pinia のプロジェクト作成チュートリアル
 
 ## 前提条件
-- node→v14.18.0 || >=16.0.0
-- Vue CLI 5.0以上
 
-## Viteでプロジェクト作成
+- node→v14.18.0 || >=16.0.0
+- Vue CLI 5.0 以上
+
+## Vite でプロジェクト作成
+
 1. `yarn create vite`でプロジェクト作成
 2. プロジェクト名入力
 3. Select a framework→Vue
 4. Select a variant→TypeScript
 5. プロジェクトルートで`yarn`→`yarn dev`で起動
 
-## Vuetify追加
+## Vuetify 追加
+
 1. プロジェクトルートで`vue add vuetify`
 2. Choose a preset→Vuetify 3 - Vite (preview)
-
-
-
-
 
 # Vue 3 + TypeScript + Vite
 

@@ -6,6 +6,4 @@
   </v-app>
 </template>
 
-<script setup lang="ts">
-import { defineComponent } from 'vue'
-</script>
+<script setup lang="ts"></script>
